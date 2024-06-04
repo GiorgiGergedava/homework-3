@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+    width: 1440px;
+    /* background-color: aquamarine; */
+    background-color: #D6D6F2;
+    ;
+    margin: auto;
+
+}
+
+nav {
+    /* background-color: blueviolet; */
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 527px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+
+}
+
+.logo_lin {
+    /* background-color: blue; */
+    display: inline-block;
+    width: 180px;
+    height: 96px;
+    margin-left: 130px;
+    vertical-align: middle;
+}
+
+.logoimg {
+    width: 100%;
+    height: 100%;
+}
+
+.middle_li {
+    margin-inline: 117px;
+}
+
+.active,
+.inactive {
+    font-size: 20px;
+}
+
+.active {
+    color: #F50808;
+    ;
+}
+
+.inactive {
+    color: #2414DB;
+}
+
+.cover_img {
+    display: block;
+    margin: auto;
+}
+
+section {
+    width: 1440px;
+    margin: auto;
+    background-color: #D6D6F2;
+}
+
+.home_selection {
+    height: 440px;
+}
+
+.imagee {
+    margin-block: 120px;
+}
+
+.home_selection_img1 {
+    margin-left: 130px;
+}
+
+.home_selection_img2 {
+    margin-inline: 16px;
+}
+
+footer {
+    width: 1440px;
+    margin: auto;
+    background-color: #19126B;
+}
+
+.facebook,
+.instagram,
+.youtube {
+    width: 60px;
+    height: 60px;
+    vertical-align: top;
+
+    display: inline-block;
+    margin-block: 51px 50px;
+}
+
+.facebook {
+    margin-left: 130px;
+}
+
+.instagram {
+    margin-inline: 16px;
+}
+
+.soc_icons {
+    width: 100%;
+    height: 100%;
+}
+
+.home_footer {
+    font-size: 16px;
+    color: #FFFFFF;
+    display: inline-block;
+    vertical-align: top;
+    margin: 51px 0 0 674px;
+}
+
+.about_section {
+    height: 460px;
+}
+
+.about_title_section {
+    font-size: 36px;
+    color: #19126B;
+    ;
+    margin: 120px 130px 24px 130px;
+    display: inline-block;
+}
+
+.about_text_section {
+    font-size: 24px;
+    color: #19126B;
+    margin-inline: 130px;
+}
+
+.contact_section {
+    height: 546px;
+}
+
+.contact_section_title {
+    font-size: 36px;
+    color: #19126B;
+    margin: 86px 0 24px 130px;
+    display: inline-block;
+}
+
+.contact_section_artticle {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+
+.adress,
+.tel,
+.email {
+    font-size: 20px;
+    margin-left: 130px;
+
+
+}
+
+iframe {
+    width: 680px;
+    height: 374px;
+    vertical-align: top;
+
+    margin: 86px 0 0 57px;
+}
